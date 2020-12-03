@@ -1,0 +1,25 @@
+{
+  "name": "top-movies-json",
+  "version": "1.0.0",
+  "target": "node",
+  "bin": "./bin/index.js",
+  "description": "json-server to serve data about the top 100 movies (from tmdb)",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brianbolnick/top-movies-json.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./index.js"
+  },
+  "keywords": [],
+  "author": "brianbolnick",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "7.0.1",
+    "json-server": "0.14.2",
+    "lowdb": "1.0.0",
+    "serve-static": "1.13.2"
+  }
+}
