@@ -1,34 +1,19 @@
-const jsonServer = require("json-server")
-const path = require("path")
-const serveStatic = require("serve-static")
+import express from 'express';
+import jsonServer from 'json-server';
+import jsonGraphqlExpress from 'json-graphql-server';
+import db from './db.json';
 
-const server = jsonServer.create()
+const server = express();
 
-//Persistant database stored in db.json
-const router = jsonServer.router('db.json')
+const PORT = 2020;
 
-//Including in case we need to add static assets?
-server.use(
-	serveStatic(path.join(__dirname, "public"), {
-		maxAge: "1d"
-	})
-)
+server.use('/graphql', jsonGraphqlExpress(db));
 
-server.use((req, res, next) => {
-	const { delay } = req.query
+//use the direct file to allow for persistant data
+server.use('/api', jsonServer.router('db.json'));
 
-	if (delay) {
-		setTimeout(() => {
-			next()
-		}, Number(delay))
-	} else {
-		next()
-	}
-})
-
-server.use(jsonServer.defaults())
-
-server.use(router)
-
-server.listen(2020)
-console.log(`Server started on port 2020`)
+server.listen(PORT, () => {
+  console.log('JSON server started on port 2020..');
+  console.log(`   * REST api available at /api`);
+  console.log(`   * GraphQL available at /graphql`);
+});
