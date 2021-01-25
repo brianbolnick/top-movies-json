@@ -10,7 +10,8 @@
 			"releaseDate": "1995-11-01",
 			"title": "The Shawshank Redemption",
 			"voteAverage": 8.7,
-			"voteCount": 17634
+			"voteCount": 17634,
+			"genres": ["Drama", "Crime"]
 		},
 		{
 			"id": 2,
@@ -22,7 +23,9 @@
 			"releaseDate": "1972-03-15",
 			"title": "The Godfather",
 			"voteAverage": 8.7,
-			"voteCount": 13333
+			"voteCount": 13333,
+			"genres": ["Drama", "Crime"]
+
 		},
 		{
 			"id": 3,
@@ -34,7 +37,8 @@
 			"releaseDate": "1993-12-15",
 			"title":"Schindler's List",
 			"voteAverage": 8.6,
-			"voteCount": 10634
+			"voteCount": 10634,
+			"genres": ["Drama", "History", "War"]
 		},
 		{
 			"id": 4,
@@ -46,7 +50,9 @@
 			"releaseDate": "1974-12-20",
 			"title": "The Godfather: Part II",
 			"voteAverage": 8.6,
-			"voteCount": 7925
+			"voteCount": 7925,
+			"genres": ["Drama", "Crime"]
+
 		},
 		{
 			"id": 5,
@@ -58,7 +64,8 @@
 			"releaseDate": "1999-12-10",
 			"title": "The Green Mile",
 			"voteAverage": 8.5,
-			"voteCount": 11309
+			"voteCount": 11309,
+			"genres": ["Fantasy", "Drama", "Crime"]
 		},
 		{
 			"id": 6,
@@ -70,7 +77,8 @@
 			"releaseDate": "2020-10-09",
 			"title": "Clouds",
 			"voteAverage": 8.5,
-			"voteCount": 421
+			"voteCount": 421,
+			"genres": ["Music", "Drama", "Romance"]
 		},
 		{
 			"id": 7,
@@ -82,7 +90,8 @@
 			"releaseDate": "1994-10-14",
 			"title": "Pulp Fiction",
 			"voteAverage": 8.5,
-			"voteCount": 19995
+			"voteCount": 19995,
+			"genres": ["Thriller", "Crime"]
 		},
 		{
 			"id": 8,
@@ -94,7 +103,8 @@
 			"releaseDate": "2003-12-17",
 			"title": "The Lord of the Rings: The Return of the King",
 			"voteAverage": 8.5,
-			"voteCount": 16639
+			"voteCount": 16639,
+			"genres": ["Adventure", "Fantasy", "Action"]
 		},
 		{
 			"id": 9,
@@ -106,7 +116,8 @@
 			"releaseDate": "1994-07-06",
 			"title": "Forrest Gump",
 			"voteAverage": 8.5,
-			"voteCount": 19339
+			"voteCount": 19339,
+			"genres": ["Comedy", "Drama", "Romance"]
 		},
 		{
 			"id": 10,
@@ -118,7 +129,8 @@
 			"releaseDate": "2020-07-03",
 			"title": "Hamilton",
 			"voteAverage": 8.5,
-			"voteCount": 513
+			"voteCount": 513,
+			"genres": ["History", "Music", "Drama"]
 		},
 		{
 			"id": 11,
@@ -130,7 +142,8 @@
 			"releaseDate": "2008-07-18",
 			"title": "The Dark Knight",
 			"voteAverage": 8.5,
-			"voteCount": 23787
+			"voteCount": 23787,
+			"genres": ["Drama", "Action", "Crime", "Thriller"]
 		},
 		{
 			"id": 12,
@@ -142,7 +155,8 @@
 			"releaseDate": "1957-04-10",
 			"title": "12 Angry Men",
 			"voteAverage": 8.5,
-			"voteCount": 5132
+			"voteCount": 5132,
+			"genres": ["Drama"]
 		},
 		{
 			"id": 13,
@@ -154,7 +168,8 @@
 			"releaseDate": "1984-06-01",
 			"title": "Once Upon a Time in America",
 			"voteAverage": 8.5,
-			"voteCount": 3299
+			"voteCount": 3299,
+			"genres": ["Drama", "Crime"]
 		},
 		{
 			"id": 14,
@@ -166,7 +181,8 @@
 			"releaseDate": "1990-09-19",
 			"title": "GoodFellas",
 			"voteAverage": 8.4,
-			"voteCount": 8217
+			"voteCount": 8217,
+			"genres": ["Drama", "Crime"]
 		},
 		{
 			"id": 15,
@@ -178,7 +194,8 @@
 			"releaseDate": "2019-09-02",
 			"title": "Steven Universe: The Movie",
 			"voteAverage": 8.4,
-			"voteCount": 507
+			"voteCount": 507,
+			"genres": ["Animation", "Adventure", "Comedy", "Family", "Fantasy", "Music", "Action", "Drama"]
 		},
 		{
 			"id": 16,
@@ -190,7 +207,8 @@
 			"releaseDate": "2020-04-12",
 			"title":"Mortal Kombat Legends: Scorpion's Revenge",
 			"voteAverage": 8.4,
-			"voteCount": 670
+			"voteCount": 670,
+			"genres": ["Fantasy", "Action", "Adventure", "Animation"]
 		},
 		{
 			"id": 17,
@@ -202,7 +220,8 @@
 			"releaseDate": "1960-06-22",
 			"title": "Psycho",
 			"voteAverage": 8.4,
-			"voteCount": 6846
+			"voteCount": 6846,
+			"genres": ["Horror", "Drama", "Thriller"]
 		},
 		{
 			"id": 18,
@@ -214,7 +233,8 @@
 			"releaseDate": "2019-08-09",
 			"title": "The Art of Racing in the Rain",
 			"voteAverage": 8.4,
-			"voteCount": 680
+			"voteCount": 680,
+			"genres": ["Comedy", "Drama", "Romance"]
 		},
 		{
 			"id": 19,
@@ -226,7 +246,8 @@
 			"releaseDate": "1999-10-15",
 			"title": "Fight Club",
 			"voteAverage": 8.4,
-			"voteCount": 20524
+			"voteCount": 20524,
+			"genres": ["Drama"]
 		},
 		{
 			"id": 20,
@@ -238,7 +259,8 @@
 			"releaseDate": "1975-11-18",
 			"title":"One Flew Over the Cuckoo's Nest",
 			"voteAverage": 8.4,
-			"voteCount": 7243
+			"voteCount": 7243,
+			"genres": ["Drama"]
 		},
 		{
 			"id": 21,
@@ -250,7 +272,8 @@
 			"releaseDate": "2018-12-14",
 			"title": "Spider-Man: Into the Spider-Verse",
 			"voteAverage": 8.4,
-			"voteCount": 8463
+			"voteCount": 8463,
+			"genres": ["Action", "Adventure", "Science Fiction", "Comedy"]
 		},
 		{
 			"id": 22,
@@ -262,7 +285,8 @@
 			"releaseDate": "2020-05-05",
 			"title": "Justice League Dark: Apokolips War",
 			"voteAverage": 8.4,
-			"voteCount": 816
+			"voteCount": 816,
+			"genres": ["Animation", "Action", "Adventure", "Fantasy", "Science Fiction"]
 		},
 		{
 			"id": 23,
@@ -274,7 +298,8 @@
 			"releaseDate": "1940-10-23",
 			"title": "The Great Dictator",
 			"voteAverage": 8.4,
-			"voteCount": 2100
+			"voteCount": 2100,
+			"genres": ["Comedy"]
 		},
 		{
 			"id": 24,
@@ -286,7 +311,8 @@
 			"releaseDate": "1950-08-10",
 			"title": "Sunset Boulevard",
 			"voteAverage": 8.4,
-			"voteCount": 1533
+			"voteCount": 1533,
+			"genres": ["Drama"]
 		},
 		{
 			"id": 25,
@@ -298,7 +324,8 @@
 			"releaseDate": "2014-10-10",
 			"title": "Whiplash",
 			"voteAverage": 8.4,
-			"voteCount": 10383
+			"voteCount": 10383,
+			"genres": ["Drama", "Music"]
 		},
 		{
 			"id": 26,
@@ -310,7 +337,8 @@
 			"releaseDate": "1980-05-21",
 			"title": "The Empire Strikes Back",
 			"voteAverage": 8.4,
-			"voteCount": 12248
+			"voteCount": 12248,
+			"genres": ["Adventure", "Action", "Science Fiction"]
 		},
 		{
 			"id": 27,
@@ -322,7 +350,8 @@
 			"releaseDate": "1998-10-30",
 			"title": "American History X",
 			"voteAverage": 8.4,
-			"voteCount": 8080
+			"voteCount": 8080,
+			"genres": ["Drama"]
 		},
 		{
 			"id": 28,
@@ -334,7 +363,8 @@
 			"releaseDate": "2002-12-25",
 			"title": "The Pianist",
 			"voteAverage": 8.4,
-			"voteCount": 5819
+			"voteCount": 5819,
+			"genres": ["Drama", "War"]
 		},
 		{
 			"id": 29,
@@ -346,7 +376,8 @@
 			"releaseDate": "1954-09-01",
 			"title": "Rear Window",
 			"voteAverage": 8.4,
-			"voteCount": 4101
+			"voteCount": 4101,
+			"genres": ["Thriller", "Mystery", "Drama"]
 		},
 		{
 			"id": 30,
@@ -358,7 +389,8 @@
 			"releaseDate": "1931-03-07",
 			"title": "City Lights",
 			"voteAverage": 8.3,
-			"voteCount": 1290
+			"voteCount": 1290,
+			"genres": ["Comedy", "Drama", "Romance"]
 		},
 		{
 			"id": 31,
@@ -370,7 +402,8 @@
 			"releaseDate": "1957-12-25",
 			"title": "Paths of Glory",
 			"voteAverage": 8.3,
-			"voteCount": 1712
+			"voteCount": 1712,
+			"genres": ["Drama", "War"]
 		},
 		{
 			"id": 32,
@@ -382,7 +415,8 @@
 			"releaseDate": "2001-12-19",
 			"title": "The Lord of the Rings: The Fellowship of the Ring",
 			"voteAverage": 8.3,
-			"voteCount": 18086
+			"voteCount": 18086,
+			"genres": ["Adventure", "Fantasy", "Action"]
 		},
 		{
 			"id": 33,
@@ -394,7 +428,8 @@
 			"releaseDate": "2010-07-16",
 			"title": "Inception",
 			"voteAverage": 8.3,
-			"voteCount": 27718
+			"voteCount": 27718,
+			"genres": ["Action", "Science Fiction", "Adventure"]
 		},
 		{
 			"id": 34,
@@ -406,7 +441,8 @@
 			"releaseDate": "2019-03-15",
 			"title": "Five Feet Apart",
 			"voteAverage": 8.3,
-			"voteCount": 3639
+			"voteCount": 3639,
+			"genres": ["Romance", "Drama"]
 		},
 		{
 			"id": 35,
@@ -418,7 +454,8 @@
 			"releaseDate": "1989-06-09",
 			"title": "Dead Poets Society",
 			"voteAverage": 8.3,
-			"voteCount": 7590
+			"voteCount": 7590,
+			"genres": ["Drama"]
 		},
 		{
 			"id": 36,
@@ -430,7 +467,8 @@
 			"releaseDate": "1995-09-22",
 			"title": "Se7en",
 			"voteAverage": 8.3,
-			"voteCount": 14158
+			"voteCount": 14158,
+			"genres": ["Crime", "Mystery", "Thriller"]
 		},
 		{
 			"id": 37,
@@ -442,7 +480,8 @@
 			"releaseDate": "1936-02-25",
 			"title": "Modern Times",
 			"voteAverage": 8.3,
-			"voteCount": 2401
+			"voteCount": 2401,
+			"genres": ["Comedy", "Drama"]
 		},
 		{
 			"id": 38,
@@ -454,7 +493,8 @@
 			"releaseDate": "2002-12-18",
 			"title": "The Lord of the Rings: The Two Towers",
 			"voteAverage": 8.3,
-			"voteCount": 15621
+			"voteCount": 15621,
+			"genres": ["Adventure", "Fantasy", "Action"]
 		},
 		{
 			"id": 39,
@@ -466,7 +506,8 @@
 			"releaseDate": "1994-11-18",
 			"title": "Léon: The Professional",
 			"voteAverage": 8.3,
-			"voteCount": 10159
+			"voteCount": 10159,
+			"genres": ["Crime", "Drama", "Action"]
 		},
 		{
 			"id": 40,
@@ -478,7 +519,8 @@
 			"releaseDate": "1991-02-01",
 			"title": "The Silence of the Lambs",
 			"voteAverage": 8.3,
-			"voteCount": 11105
+			"voteCount": 11105,
+			"genres": ["Crime", "Drama", "Thriller", "Horror"]
 		},
 		{
 			"id": 41,
@@ -490,7 +532,8 @@
 			"releaseDate": "2014-11-05",
 			"title": "Interstellar",
 			"voteAverage": 8.3,
-			"voteCount": 24314
+			"voteCount": 24314,
+			"genres": ["Adventure", "Drama", "Science Fiction"]
 		},
 		{
 			"id": 42,
@@ -502,7 +545,8 @@
 			"releaseDate": "2019-11-08",
 			"title": "Klaus",
 			"voteAverage": 8.3,
-			"voteCount": 1954
+			"voteCount": 1954,
+			"genres": ["Animation", "Family", "Adventure", "Comedy"]
 		},
 		{
 			"id": 43,
@@ -514,7 +558,8 @@
 			"releaseDate": "2018-10-19",
 			"title": "The Hate U Give",
 			"voteAverage": 8.3,
-			"voteCount": 1380
+			"voteCount": 1380,
+			"genres": ["Crime", "Drama"]
 		},
 		{
 			"id": 44,
@@ -526,7 +571,8 @@
 			"releaseDate": "2019-04-26",
 			"title": "Avengers: Endgame",
 			"voteAverage": 8.3,
-			"voteCount": 15844
+			"voteCount": 15844,
+			"genres": ["Adventure", "Science Fiction", "Action"]
 		},
 		{
 			"id": 45,
@@ -538,7 +584,8 @@
 			"releaseDate": "2017-11-24",
 			"title": "Call Me by Your Name",
 			"voteAverage": 8.3,
-			"voteCount": 8256
+			"voteCount": 8256,
+			"genres": ["Romance", "Drama"]
 		},
 		{
 			"id": 46,
@@ -550,7 +597,8 @@
 			"releaseDate": "1985-07-03",
 			"title": "Back to the Future",
 			"voteAverage": 8.3,
-			"voteCount": 14142
+			"voteCount": 14142,
+			"genres": ["Adventure", "Comedy", "Science Fiction", "Family"]
 		},
 		{
 			"id": 47,
@@ -562,7 +610,8 @@
 			"releaseDate": "2001-03-08",
 			"title": "Apocalypse Now",
 			"voteAverage": 8.3,
-			"voteCount": 5350
+			"voteCount": 5350,
+			"genres": ["Drama", "War"]
 		},
 		{
 			"id": 48,
@@ -574,7 +623,8 @@
 			"releaseDate": "2018-11-16",
 			"title": "Green Book",
 			"voteAverage": 8.3,
-			"voteCount": 7118
+			"voteCount": 7118,
+			"genres": ["Drama", "Comedy", "Music"]
 		},
 		{
 			"id": 49,
@@ -586,7 +636,8 @@
 			"releaseDate": "1957-12-17",
 			"title": "Witness for the Prosecution",
 			"voteAverage": 8.3,
-			"voteCount": 742
+			"voteCount": 742,
+			"genres": ["Drama", "Mystery", "Crime"]
 		},
 		{
 			"id": 50,
@@ -598,7 +649,8 @@
 			"releaseDate": "2018-04-27",
 			"title": "Avengers: Infinity War",
 			"voteAverage": 8.3,
-			"voteCount": 20278
+			"voteCount": 20278,
+			"genres": ["Adventure", "Action", "Science Fiction"]
 		},
 		{
 			"id": 51,
@@ -610,7 +662,8 @@
 			"releaseDate": "1994-06-23",
 			"title": "The Lion King",
 			"voteAverage": 8.2,
-			"voteCount": 13253
+			"voteCount": 13253,
+			"genres": ["Family", "Animation", "Drama"]
 		},
 		{
 			"id": 52,
@@ -622,7 +675,8 @@
 			"releaseDate": "1947-01-07",
 			"title":"It's a Wonderful Life",
 			"voteAverage": 8.2,
-			"voteCount": 2616
+			"voteCount": 2616,
+			"genres": ["Drama", "Family", "Fantasy"]
 		},
 		{
 			"id": 53,
@@ -634,7 +688,8 @@
 			"releaseDate": "1960-06-21",
 			"title": "The Apartment",
 			"voteAverage": 8.2,
-			"voteCount": 1313
+			"voteCount": 1313,
+			"genres": ["Comedy", "Drama", "Romance"]
 		},
 		{
 			"id": 54,
@@ -646,7 +701,8 @@
 			"releaseDate": "2019-12-03",
 			"title": "How to Train Your Dragon: Homecoming",
 			"voteAverage": 8.2,
-			"voteCount": 447
+			"voteCount": 447,
+			"genres": ["Animation", "Fantasy", "Adventure", "Action", "Family"]
 		},
 		{
 			"id": 55,
@@ -658,7 +714,8 @@
 			"releaseDate": "1971-12-19",
 			"title": "A Clockwork Orange",
 			"voteAverage": 8.2,
-			"voteCount": 8959
+			"voteCount": 8959,
+			"genres": ["Science Fiction", "Drama"]
 		},
 		{
 			"id": 56,
@@ -670,7 +727,8 @@
 			"releaseDate": "2020-02-14",
 			"title": "Z-O-M-B-I-E-S 2",
 			"voteAverage": 8.2,
-			"voteCount": 302
+			"voteCount": 302,
+			"genres": ["Music", "Romance", "TV Movie"]
 		},
 		{
 			"id": 57,
@@ -682,7 +740,8 @@
 			"releaseDate": "2017-11-17",
 			"title": "Wonder",
 			"voteAverage": 8.2,
-			"voteCount": 5870
+			"voteCount": 5870,
+			"genres": ["Drama", "Family"]
 		},
 		{
 			"id": 58,
@@ -694,7 +753,8 @@
 			"releaseDate": "1921-01-21",
 			"title": "The Kid",
 			"voteAverage": 8.2,
-			"voteCount": 1237
+			"voteCount": 1237,
+			"genres": ["Comedy", "Drama"]
 		},
 		{
 			"id": 59,
@@ -706,7 +766,8 @@
 			"releaseDate": "1958-05-28",
 			"title": "Vertigo",
 			"voteAverage": 8.2,
-			"voteCount": 3720
+			"voteCount": 3720,
+			"genres": ["Mystery", "Romance", "Thriller"]
 		},
 		{
 			"id": 60,
@@ -718,7 +779,8 @@
 			"releaseDate": "1924-04-17",
 			"title": "Sherlock Jr.",
 			"voteAverage": 8.2,
-			"voteCount": 499
+			"voteCount": 499,
+			"genres": ["Action", "Comedy", "Mystery"]
 		},
 		{
 			"id": 61,
@@ -730,7 +792,8 @@
 			"releaseDate": "1995-08-16",
 			"title": "The Usual Suspects",
 			"voteAverage": 8.2,
-			"voteCount": 7246
+			"voteCount": 7246,
+			"genres": ["Drama", "Crime", "Thriller"]
 		},
 		{
 			"id": 62,
@@ -742,7 +805,8 @@
 			"releaseDate": "1980-05-23",
 			"title": "The Shining",
 			"voteAverage": 8.2,
-			"voteCount": 12054
+			"voteCount": 12054,
+			"genres": ["Horror", "Thriller"]
 		},
 		{
 			"id": 63,
@@ -754,7 +818,8 @@
 			"releaseDate": "2017-11-22",
 			"title": "Coco",
 			"voteAverage": 8.2,
-			"voteCount": 12847
+			"voteCount": 12847,
+			"genres": ["Family", "Animation", "Fantasy", "Music", "Comedy", "Adventure"]
 		},
 		{
 			"id": 64,
@@ -766,7 +831,8 @@
 			"releaseDate": "2019-12-20",
 			"title": "Togo",
 			"voteAverage": 8.2,
-			"voteCount": 958
+			"voteCount": 958,
+			"genres": ["Adventure", "Family"]
 		},
 		{
 			"id": 65,
@@ -778,7 +844,8 @@
 			"releaseDate": "2016-06-17",
 			"title": "Piper",
 			"voteAverage": 8.2,
-			"voteCount": 1110
+			"voteCount": 1110,
+			"genres": ["Family", "Animation"]
 		},
 		{
 			"id": 66,
@@ -790,7 +857,8 @@
 			"releaseDate": "1981-04-10",
 			"title": "Star Wars",
 			"voteAverage": 8.2,
-			"voteCount": 14650
+			"voteCount": 14650,
+			"genres": ["Adventure", "Action", "Science Fiction"]
 		},
 		{
 			"id": 67,
@@ -802,7 +870,8 @@
 			"releaseDate": "1950-10-06",
 			"title": "All About Eve",
 			"voteAverage": 8.2,
-			"voteCount": 964
+			"voteCount": 964,
+			"genres": ["Drama"]
 		},
 		{
 			"id": 68,
@@ -814,7 +883,8 @@
 			"releaseDate": "2009-08-21",
 			"title": "Inglourious Basterds",
 			"voteAverage": 8.2,
-			"voteCount": 15793
+			"voteCount": 15793,
+			"genres": ["Drama", "Action", "Thriller", "War"]
 		},
 		{
 			"id": 69,
@@ -826,7 +896,8 @@
 			"releaseDate": "1952-04-09",
 			"title":"Singin' in the Rain",
 			"voteAverage": 8.2,
-			"voteCount": 1950
+			"voteCount": 1950,
+			"genres": ["Comedy", "Music", "Romance"]
 		},
 		{
 			"id": 70,
@@ -838,7 +909,8 @@
 			"releaseDate": "1976-02-09",
 			"title": "Taxi Driver",
 			"voteAverage": 8.2,
-			"voteCount": 7523
+			"voteCount": 7523,
+			"genres": ["Crime", "Drama"]
 		},
 		{
 			"id": 71,
@@ -850,7 +922,8 @@
 			"releaseDate": "2001-03-16",
 			"title": "Memento",
 			"voteAverage": 8.2,
-			"voteCount": 10264
+			"voteCount": 10264,
+			"genres": ["Mystery", "Thriller"]
 		},
 		{
 			"id": 72,
@@ -862,7 +935,8 @@
 			"releaseDate": "1944-06-14",
 			"title": "Double Indemnity",
 			"voteAverage": 8.2,
-			"voteCount": 1050
+			"voteCount": 1050,
+			"genres": ["Crime", "Drama", "Mystery", "Thriller"]
 		},
 		{
 			"id": 73,
@@ -874,7 +948,8 @@
 			"releaseDate": "1999-03-05",
 			"title": "Lock, Stock and Two Smoking Barrels",
 			"voteAverage": 8.2,
-			"voteCount": 4381
+			"voteCount": 4381,
+			"genres": ["Comedy", "Crime"]
 		},
 		{
 			"id": 74,
@@ -886,7 +961,8 @@
 			"releaseDate": "2017-06-01",
 			"title": "In a Heartbeat",
 			"voteAverage": 8.2,
-			"voteCount": 825
+			"voteCount": 825,
+			"genres": ["Family", "Animation", "Romance", "Comedy"]
 		},
 		{
 			"id": 75,
@@ -898,7 +974,8 @@
 			"releaseDate": "2006-10-19",
 			"title": "The Prestige",
 			"voteAverage": 8.2,
-			"voteCount": 10879
+			"voteCount": 10879,
+			"genres": ["Drama", "Mystery", "Thriller"]
 		},
 		{
 			"id": 76,
@@ -910,7 +987,8 @@
 			"releaseDate": "2019-10-04",
 			"title": "Joker",
 			"voteAverage": 8.2,
-			"voteCount": 15734
+			"voteCount": 15734,
+			"genres": ["Drama", "Mystery", "Thriller"]
 		},
 		{
 			"id": 77,
@@ -922,7 +1000,8 @@
 			"releaseDate": "1959-03-19",
 			"title": "Some Like It Hot",
 			"voteAverage": 8.2,
-			"voteCount": 2177
+			"voteCount": 2177,
+			"genres": ["Comedy", "Music", "Romance", "Crime"]
 		},
 		{
 			"id": 78,
@@ -934,7 +1013,8 @@
 			"releaseDate": "2000-05-01",
 			"title": "Gladiator",
 			"voteAverage": 8.2,
-			"voteCount": 12778
+			"voteCount": 12778,
+			"genres": ["Action", "Drama", "Adventure"]
 		},
 		{
 			"id": 79,
@@ -946,7 +1026,8 @@
 			"releaseDate": "1964-01-29",
 			"title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
 			"voteAverage": 8.2,
-			"voteCount": 3717
+			"voteCount": 3717,
+			"genres": ["Drama", "Comedy", "War"]
 		},
 		{
 			"id": 80,
@@ -958,7 +1039,8 @@
 			"releaseDate": "2011-08-10",
 			"title": "The Help",
 			"voteAverage": 8.2,
-			"voteCount": 5230
+			"voteCount": 5230,
+			"genres": ["Drama"]
 		},
 		{
 			"id": 81,
@@ -970,7 +1052,8 @@
 			"releaseDate": "1992-10-23",
 			"title": "Reservoir Dogs",
 			"voteAverage": 8.2,
-			"voteCount": 9899
+			"voteCount": 9899,
+			"genres": ["Crime", "Thriller"]
 		},
 		{
 			"id": 82,
@@ -982,7 +1065,8 @@
 			"releaseDate": "2018-03-16",
 			"title": "Love, Simon",
 			"voteAverage": 8.2,
-			"voteCount": 4596
+			"voteCount": 4596,
+			"genres": ["Comedy", "Drama", "Romance"]
 		},
 		{
 			"id": 83,
@@ -994,7 +1078,8 @@
 			"releaseDate": "2006-10-05",
 			"title": "The Departed",
 			"voteAverage": 8.2,
-			"voteCount": 10438
+			"voteCount": 10438,
+			"genres": ["Drama", "Thriller", "Crime"]
 		},
 		{
 			"id": 84,
@@ -1006,7 +1091,8 @@
 			"releaseDate": "1942-11-26",
 			"title": "Casablanca",
 			"voteAverage": 8.2,
-			"voteCount": 3430
+			"voteCount": 3430,
+			"genres": ["Drama", "Romance"]
 		},
 		{
 			"id": 85,
@@ -1018,7 +1104,8 @@
 			"releaseDate": "2010-02-18",
 			"title": "Shutter Island",
 			"voteAverage": 8.2,
-			"voteCount": 16766
+			"voteCount": 16766,
+			"genres": ["Drama", "Thriller", "Mystery"]
 		},
 		{
 			"id": 86,
@@ -1030,7 +1117,8 @@
 			"releaseDate": "1998-07-24",
 			"title": "Saving Private Ryan",
 			"voteAverage": 8.2,
-			"voteCount": 11018
+			"voteCount": 11018,
+			"genres": ["Drama", "History", "War"]
 		},
 		{
 			"id": 87,
@@ -1042,7 +1130,8 @@
 			"releaseDate": "1983-12-08",
 			"title": "Scarface",
 			"voteAverage": 8.2,
-			"voteCount": 7619
+			"voteCount": 7619,
+			"genres": ["Action", "Crime", "Drama", "Thriller"]
 		},
 		{
 			"id": 88,
@@ -1054,7 +1143,8 @@
 			"releaseDate": "2019-10-18",
 			"title": "Jojo Rabbit",
 			"voteAverage": 8.1,
-			"voteCount": 5129
+			"voteCount": 5129,
+			"genres": ["Comedy", "War", "Drama"]
 		},
 		{
 			"id": 89,
@@ -1066,7 +1156,8 @@
 			"releaseDate": "1948-09-06",
 			"title": "The Red Shoes",
 			"voteAverage": 8.1,
-			"voteCount": 339
+			"voteCount": 339,
+			"genres": ["Drama", "Romance"]
 		},
 		{
 			"id": 90,
@@ -1078,7 +1169,8 @@
 			"releaseDate": "2016-11-04",
 			"title": "Hacksaw Ridge",
 			"voteAverage": 8.1,
-			"voteCount": 8936
+			"voteCount": 8936,
+			"genres": ["Drama", "History", "War"]
 		},
 		{
 			"id": 91,
@@ -1090,7 +1182,8 @@
 			"releaseDate": "1999-03-30",
 			"title": "The Matrix",
 			"voteAverage": 8.1,
-			"voteCount": 18132
+			"voteCount": 18132,
+			"genres": ["Action", "Science Fiction"]
 		},
 		{
 			"id": 92,
@@ -1102,7 +1195,8 @@
 			"releaseDate": "2017-12-01",
 			"title": "Three Billboards Outside Ebbing, Missouri",
 			"voteAverage": 8.1,
-			"voteCount": 7237
+			"voteCount": 7237,
+			"genres": ["Crime", "Drama"]
 		},
 		{
 			"id": 93,
@@ -1114,7 +1208,8 @@
 			"releaseDate": "2018-09-14",
 			"title": "Where Hands Touch",
 			"voteAverage": 8.1,
-			"voteCount": 316
+			"voteCount": 316,
+			"genres": ["War", "Drama", "Romance"]
 		},
 		{
 			"id": 94,
@@ -1126,7 +1221,8 @@
 			"releaseDate": "2017-09-22",
 			"title": "Loving Vincent",
 			"voteAverage": 8.1,
-			"voteCount": 1692
+			"voteCount": 1692,
+			"genres": ["Animation", "Drama", "Mystery"]
 		},
 		{
 			"id": 95,
@@ -1138,7 +1234,8 @@
 			"releaseDate": "1987-06-26",
 			"title": "Full Metal Jacket",
 			"voteAverage": 8.1,
-			"voteCount": 7067
+			"voteCount": 7067,
+			"genres": ["Drama", "War"]
 		},
 		{
 			"id": 96,
@@ -1150,7 +1247,8 @@
 			"releaseDate": "2019-05-17",
 			"title":"A Dog's Journey",
 			"voteAverage": 8.1,
-			"voteCount": 752
+			"voteCount": 752,
+			"genres": ["Family", "Adventure", "Drama"]
 		},
 		{
 			"id": 97,
@@ -1162,7 +1260,8 @@
 			"releaseDate": "2016-11-25",
 			"title": "Lion",
 			"voteAverage": 8.1,
-			"voteCount": 5072
+			"voteCount": 5072,
+			"genres": ["Drama"]
 		},
 		{
 			"id": 98,
@@ -1174,7 +1273,8 @@
 			"releaseDate": "2007-12-28",
 			"title": "There Will Be Blood",
 			"voteAverage": 8.1,
-			"voteCount": 4194
+			"voteCount": 4194,
+			"genres": ["Drama"]
 		},
 		{
 			"id": 99,
@@ -1186,7 +1286,8 @@
 			"releaseDate": "1997-12-05",
 			"title": "Good Will Hunting",
 			"voteAverage": 8.1,
-			"voteCount": 7982
+			"voteCount": 7982,
+			"genres": ["Drama"]
 		},
 		{
 			"id": 100,
@@ -1198,7 +1299,8 @@
 			"releaseDate": "2011-07-15",
 			"title": "Harry Potter and the Deathly Hallows: Part 2",
 			"voteAverage": 8.1,
-			"voteCount": 14743
+			"voteCount": 14743,
+			"genres": ["Fantasy", "Adventure"]
 		}
 	],
 	"comments": [
