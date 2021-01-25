@@ -1065,7 +1065,8 @@
 			"releaseDate": "2018-03-16",
 			"title": "Love, Simon",
 			"voteAverage": 8.2,
-			"voteCount": 4596
+			"voteCount": 4596,
+			"genres": ["Comedy", "Drama", "Romance"]
 		},
 		{
 			"id": 83,
@@ -1077,7 +1078,8 @@
 			"releaseDate": "2006-10-05",
 			"title": "The Departed",
 			"voteAverage": 8.2,
-			"voteCount": 10438
+			"voteCount": 10438,
+			"genres": ["Drama", "Thriller", "Crime"]
 		},
 		{
 			"id": 84,
@@ -1089,7 +1091,8 @@
 			"releaseDate": "1942-11-26",
 			"title": "Casablanca",
 			"voteAverage": 8.2,
-			"voteCount": 3430
+			"voteCount": 3430,
+			"genres": ["Drama", "Romance"]
 		},
 		{
 			"id": 85,
@@ -1101,7 +1104,8 @@
 			"releaseDate": "2010-02-18",
 			"title": "Shutter Island",
 			"voteAverage": 8.2,
-			"voteCount": 16766
+			"voteCount": 16766,
+			"genres": ["Drama", "Thriller", "Mystery"]
 		},
 		{
 			"id": 86,
@@ -1113,7 +1117,8 @@
 			"releaseDate": "1998-07-24",
 			"title": "Saving Private Ryan",
 			"voteAverage": 8.2,
-			"voteCount": 11018
+			"voteCount": 11018,
+			"genres": ["Drama", "History", "War"]
 		},
 		{
 			"id": 87,
@@ -1125,7 +1130,8 @@
 			"releaseDate": "1983-12-08",
 			"title": "Scarface",
 			"voteAverage": 8.2,
-			"voteCount": 7619
+			"voteCount": 7619,
+			"genres": ["Action", "Crime", "Drama", "Thriller"]
 		},
 		{
 			"id": 88,
@@ -1137,7 +1143,8 @@
 			"releaseDate": "2019-10-18",
 			"title": "Jojo Rabbit",
 			"voteAverage": 8.1,
-			"voteCount": 5129
+			"voteCount": 5129,
+			"genres": ["Comedy", "War", "Drama"]
 		},
 		{
 			"id": 89,
@@ -1149,7 +1156,8 @@
 			"releaseDate": "1948-09-06",
 			"title": "The Red Shoes",
 			"voteAverage": 8.1,
-			"voteCount": 339
+			"voteCount": 339,
+			"genres": ["Drama", "Romance"]
 		},
 		{
 			"id": 90,
@@ -1161,7 +1169,8 @@
 			"releaseDate": "2016-11-04",
 			"title": "Hacksaw Ridge",
 			"voteAverage": 8.1,
-			"voteCount": 8936
+			"voteCount": 8936,
+			"genres": ["Drama", "History", "War"]
 		},
 		{
 			"id": 91,
@@ -1173,7 +1182,8 @@
 			"releaseDate": "1999-03-30",
 			"title": "The Matrix",
 			"voteAverage": 8.1,
-			"voteCount": 18132
+			"voteCount": 18132,
+			"genres": ["Action", "Science Fiction"]
 		},
 		{
 			"id": 92,
@@ -1185,7 +1195,8 @@
 			"releaseDate": "2017-12-01",
 			"title": "Three Billboards Outside Ebbing, Missouri",
 			"voteAverage": 8.1,
-			"voteCount": 7237
+			"voteCount": 7237,
+			"genres": ["Crime", "Drama"]
 		},
 		{
 			"id": 93,
@@ -1197,7 +1208,8 @@
 			"releaseDate": "2018-09-14",
 			"title": "Where Hands Touch",
 			"voteAverage": 8.1,
-			"voteCount": 316
+			"voteCount": 316,
+			"genres": ["War", "Drama", "Romance"]
 		},
 		{
 			"id": 94,
@@ -1209,7 +1221,8 @@
 			"releaseDate": "2017-09-22",
 			"title": "Loving Vincent",
 			"voteAverage": 8.1,
-			"voteCount": 1692
+			"voteCount": 1692,
+			"genres": ["Animation", "Drama", "Mystery"]
 		},
 		{
 			"id": 95,
@@ -1221,7 +1234,8 @@
 			"releaseDate": "1987-06-26",
 			"title": "Full Metal Jacket",
 			"voteAverage": 8.1,
-			"voteCount": 7067
+			"voteCount": 7067,
+			"genres": ["Drama", "War"]
 		},
 		{
 			"id": 96,
@@ -1233,7 +1247,8 @@
 			"releaseDate": "2019-05-17",
 			"title":"A Dog's Journey",
 			"voteAverage": 8.1,
-			"voteCount": 752
+			"voteCount": 752,
+			"genres": ["Family", "Adventure", "Drama"]
 		},
 		{
 			"id": 97,
@@ -1245,7 +1260,8 @@
 			"releaseDate": "2016-11-25",
 			"title": "Lion",
 			"voteAverage": 8.1,
-			"voteCount": 5072
+			"voteCount": 5072,
+			"genres": ["Drama"]
 		},
 		{
 			"id": 98,
@@ -1257,7 +1273,8 @@
 			"releaseDate": "2007-12-28",
 			"title": "There Will Be Blood",
 			"voteAverage": 8.1,
-			"voteCount": 4194
+			"voteCount": 4194,
+			"genres": ["Drama"]
 		},
 		{
 			"id": 99,
@@ -1269,7 +1286,8 @@
 			"releaseDate": "1997-12-05",
 			"title": "Good Will Hunting",
 			"voteAverage": 8.1,
-			"voteCount": 7982
+			"voteCount": 7982,
+			"genres": ["Drama"]
 		},
 		{
 			"id": 100,
@@ -1281,7 +1299,8 @@
 			"releaseDate": "2011-07-15",
 			"title": "Harry Potter and the Deathly Hallows: Part 2",
 			"voteAverage": 8.1,
-			"voteCount": 14743
+			"voteCount": 14743,
+			"genres": ["Fantasy", "Adventure"]
 		}
 	],
 	"comments": [
