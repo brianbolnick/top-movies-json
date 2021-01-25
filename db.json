@@ -662,7 +662,8 @@
 			"releaseDate": "1994-06-23",
 			"title": "The Lion King",
 			"voteAverage": 8.2,
-			"voteCount": 13253
+			"voteCount": 13253,
+			"genres": ["Family", "Animation", "Drama"]
 		},
 		{
 			"id": 52,
@@ -674,7 +675,8 @@
 			"releaseDate": "1947-01-07",
 			"title":"It's a Wonderful Life",
 			"voteAverage": 8.2,
-			"voteCount": 2616
+			"voteCount": 2616,
+			"genres": ["Drama", "Family", "Fantasy"]
 		},
 		{
 			"id": 53,
@@ -686,7 +688,8 @@
 			"releaseDate": "1960-06-21",
 			"title": "The Apartment",
 			"voteAverage": 8.2,
-			"voteCount": 1313
+			"voteCount": 1313,
+			"genres": ["Comedy", "Drama", "Romance"]
 		},
 		{
 			"id": 54,
@@ -698,7 +701,8 @@
 			"releaseDate": "2019-12-03",
 			"title": "How to Train Your Dragon: Homecoming",
 			"voteAverage": 8.2,
-			"voteCount": 447
+			"voteCount": 447,
+			"genres": ["Animation", "Fantasy", "Adventure", "Action", "Family"]
 		},
 		{
 			"id": 55,
@@ -710,7 +714,8 @@
 			"releaseDate": "1971-12-19",
 			"title": "A Clockwork Orange",
 			"voteAverage": 8.2,
-			"voteCount": 8959
+			"voteCount": 8959,
+			"genres": ["Science Fiction", "Drama"]
 		},
 		{
 			"id": 56,
@@ -722,7 +727,8 @@
 			"releaseDate": "2020-02-14",
 			"title": "Z-O-M-B-I-E-S 2",
 			"voteAverage": 8.2,
-			"voteCount": 302
+			"voteCount": 302,
+			"genres": ["Music", "Romance", "TV Movie"]
 		},
 		{
 			"id": 57,
@@ -734,7 +740,8 @@
 			"releaseDate": "2017-11-17",
 			"title": "Wonder",
 			"voteAverage": 8.2,
-			"voteCount": 5870
+			"voteCount": 5870,
+			"genres": ["Drama", "Family"]
 		},
 		{
 			"id": 58,
@@ -746,7 +753,8 @@
 			"releaseDate": "1921-01-21",
 			"title": "The Kid",
 			"voteAverage": 8.2,
-			"voteCount": 1237
+			"voteCount": 1237,
+			"genres": ["Comedy", "Drama"]
 		},
 		{
 			"id": 59,
@@ -758,7 +766,8 @@
 			"releaseDate": "1958-05-28",
 			"title": "Vertigo",
 			"voteAverage": 8.2,
-			"voteCount": 3720
+			"voteCount": 3720,
+			"genres": ["Mystery", "Romance", "Thriller"]
 		},
 		{
 			"id": 60,
@@ -770,7 +779,8 @@
 			"releaseDate": "1924-04-17",
 			"title": "Sherlock Jr.",
 			"voteAverage": 8.2,
-			"voteCount": 499
+			"voteCount": 499,
+			"genres": ["Action", "Comedy", "Mystery"]
 		},
 		{
 			"id": 61,
@@ -782,7 +792,8 @@
 			"releaseDate": "1995-08-16",
 			"title": "The Usual Suspects",
 			"voteAverage": 8.2,
-			"voteCount": 7246
+			"voteCount": 7246,
+			"genres": ["Drama", "Crime", "Thriller"]
 		},
 		{
 			"id": 62,
@@ -794,7 +805,8 @@
 			"releaseDate": "1980-05-23",
 			"title": "The Shining",
 			"voteAverage": 8.2,
-			"voteCount": 12054
+			"voteCount": 12054,
+			"genres": ["Horror", "Thriller"]
 		},
 		{
 			"id": 63,
@@ -806,7 +818,8 @@
 			"releaseDate": "2017-11-22",
 			"title": "Coco",
 			"voteAverage": 8.2,
-			"voteCount": 12847
+			"voteCount": 12847,
+			"genres": ["Family", "Animation", "Fantasy", "Music", "Comedy", "Adventure"]
 		},
 		{
 			"id": 64,
@@ -818,7 +831,8 @@
 			"releaseDate": "2019-12-20",
 			"title": "Togo",
 			"voteAverage": 8.2,
-			"voteCount": 958
+			"voteCount": 958,
+			"genres": ["Adventure", "Family"]
 		},
 		{
 			"id": 65,
@@ -830,7 +844,8 @@
 			"releaseDate": "2016-06-17",
 			"title": "Piper",
 			"voteAverage": 8.2,
-			"voteCount": 1110
+			"voteCount": 1110,
+			"genres": ["Family", "Animation"]
 		},
 		{
 			"id": 66,
@@ -842,7 +857,8 @@
 			"releaseDate": "1981-04-10",
 			"title": "Star Wars",
 			"voteAverage": 8.2,
-			"voteCount": 14650
+			"voteCount": 14650,
+			"genres": ["Adventure", "Action", "Science Fiction"]
 		},
 		{
 			"id": 67,
@@ -854,7 +870,8 @@
 			"releaseDate": "1950-10-06",
 			"title": "All About Eve",
 			"voteAverage": 8.2,
-			"voteCount": 964
+			"voteCount": 964,
+			"genres": ["Drama"]
 		},
 		{
 			"id": 68,
@@ -866,7 +883,8 @@
 			"releaseDate": "2009-08-21",
 			"title": "Inglourious Basterds",
 			"voteAverage": 8.2,
-			"voteCount": 15793
+			"voteCount": 15793,
+			"genres": ["Drama", "Action", "Thriller", "War"]
 		},
 		{
 			"id": 69,
@@ -878,7 +896,8 @@
 			"releaseDate": "1952-04-09",
 			"title":"Singin' in the Rain",
 			"voteAverage": 8.2,
-			"voteCount": 1950
+			"voteCount": 1950,
+			"genres": ["Comedy", "Music", "Romance"]
 		},
 		{
 			"id": 70,
@@ -890,7 +909,8 @@
 			"releaseDate": "1976-02-09",
 			"title": "Taxi Driver",
 			"voteAverage": 8.2,
-			"voteCount": 7523
+			"voteCount": 7523,
+			"genres": ["Crime", "Drama"]
 		},
 		{
 			"id": 71,
@@ -902,7 +922,8 @@
 			"releaseDate": "2001-03-16",
 			"title": "Memento",
 			"voteAverage": 8.2,
-			"voteCount": 10264
+			"voteCount": 10264,
+			"genres": ["Mystery", "Thriller"]
 		},
 		{
 			"id": 72,
@@ -914,7 +935,8 @@
 			"releaseDate": "1944-06-14",
 			"title": "Double Indemnity",
 			"voteAverage": 8.2,
-			"voteCount": 1050
+			"voteCount": 1050,
+			"genres": ["Crime", "Drama", "Mystery", "Thriller"]
 		},
 		{
 			"id": 73,
@@ -926,7 +948,8 @@
 			"releaseDate": "1999-03-05",
 			"title": "Lock, Stock and Two Smoking Barrels",
 			"voteAverage": 8.2,
-			"voteCount": 4381
+			"voteCount": 4381,
+			"genres": ["Comedy", "Crime"]
 		},
 		{
 			"id": 74,
@@ -938,7 +961,8 @@
 			"releaseDate": "2017-06-01",
 			"title": "In a Heartbeat",
 			"voteAverage": 8.2,
-			"voteCount": 825
+			"voteCount": 825,
+			"genres": ["Family", "Animation", "Romance", "Comedy"]
 		},
 		{
 			"id": 75,
@@ -950,7 +974,8 @@
 			"releaseDate": "2006-10-19",
 			"title": "The Prestige",
 			"voteAverage": 8.2,
-			"voteCount": 10879
+			"voteCount": 10879,
+			"genres": ["Drama", "Mystery", "Thriller"]
 		},
 		{
 			"id": 76,
@@ -962,7 +987,8 @@
 			"releaseDate": "2019-10-04",
 			"title": "Joker",
 			"voteAverage": 8.2,
-			"voteCount": 15734
+			"voteCount": 15734,
+			"genres": ["Drama", "Mystery", "Thriller"]
 		},
 		{
 			"id": 77,
@@ -974,7 +1000,8 @@
 			"releaseDate": "1959-03-19",
 			"title": "Some Like It Hot",
 			"voteAverage": 8.2,
-			"voteCount": 2177
+			"voteCount": 2177,
+			"genres": ["Comedy", "Music", "Romance", "Crime"]
 		},
 		{
 			"id": 78,
@@ -986,7 +1013,8 @@
 			"releaseDate": "2000-05-01",
 			"title": "Gladiator",
 			"voteAverage": 8.2,
-			"voteCount": 12778
+			"voteCount": 12778,
+			"genres": ["Action", "Drama", "Adventure"]
 		},
 		{
 			"id": 79,
@@ -998,7 +1026,8 @@
 			"releaseDate": "1964-01-29",
 			"title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
 			"voteAverage": 8.2,
-			"voteCount": 3717
+			"voteCount": 3717,
+			"genres": ["Drama", "Comedy", "War"]
 		},
 		{
 			"id": 80,
@@ -1010,7 +1039,8 @@
 			"releaseDate": "2011-08-10",
 			"title": "The Help",
 			"voteAverage": 8.2,
-			"voteCount": 5230
+			"voteCount": 5230,
+			"genres": ["Drama"]
 		},
 		{
 			"id": 81,
@@ -1022,7 +1052,8 @@
 			"releaseDate": "1992-10-23",
 			"title": "Reservoir Dogs",
 			"voteAverage": 8.2,
-			"voteCount": 9899
+			"voteCount": 9899,
+			"genres": ["Crime", "Thriller"]
 		},
 		{
 			"id": 82,
