@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "target": "node",
   "bin": "./bin/index.js",
-  "description": "json-server to serve data about the top 100 movies (from tmdb)",
+  "description": "json-server to serve data about popular movies (from tmdb)",
   "main": "index.js",
   "repository": {
     "type": "git",
