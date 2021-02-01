@@ -1190,54 +1190,6 @@
             }
         },
         {
-            "id": 664168,
-            "originalLanguage": "en",
-            "originalTitle": "Fat Ass Zombies",
-            "overview": "In a sleepy town, one man, a wannabe horror film director is about to have his life and the world he knows change forever. Finally, he gets the big break he has been waiting a lifetime for, but its not Hollywood knocking on his door.",
-            "popularity": 448.915,
-            "posterPath": "https://image.tmdb.org/t/p/w300_and_h450_bestv2//btrers8SNujMJhxjLvjh7AJpN3T.jpg",
-            "releaseDate": "2020-02-18",
-            "title": "Fat Ass Zombies",
-            "voteAverage": 4.7,
-            "voteCount": 32,
-            "budget": 0,
-            "runtime": 86,
-            "genres": [
-                "Horror",
-                "Comedy"
-            ],
-            "cast": [{
-                    "profilePath": "https://image.tmdb.org/t/p/w300_and_h450_bestv2/null",
-                    "name": "Kayla Vosburg",
-                    "character": "",
-                    "order": 1
-                },
-                {
-                    "profilePath": "https://image.tmdb.org/t/p/w300_and_h450_bestv2//7xdJpmeCUod0OEx5VlGpNuWQG7v.jpg",
-                    "name": "Gregg Daniel",
-                    "character": "",
-                    "order": 2
-                },
-                {
-                    "profilePath": "https://image.tmdb.org/t/p/w300_and_h450_bestv2//A8FqogkVLgLgH5Pj0zBR7y3ZPTa.jpg",
-                    "name": "Thomas Calabro",
-                    "character": "",
-                    "order": 3
-                },
-                {
-                    "profilePath": "https://image.tmdb.org/t/p/w300_and_h450_bestv2//t4camWCS8khJd7gGpNu5zUGwIAN.jpg",
-                    "name": "Kristen Renton",
-                    "character": "Tiffany",
-                    "order": 4
-                }
-            ],
-            "director": {
-                "id": 1435027,
-                "name": "George J. Bennett",
-                "profilePath": "https://image.tmdb.org/t/p/w300_and_h450_bestv2/undefined"
-            }
-        },
-        {
             "id": 227348,
             "originalLanguage": "en",
             "originalTitle": "Paranormal Activity: The Marked Ones",
@@ -4344,53 +4296,6 @@
             "director": {
                 "id": 1048552,
                 "name": "Egor Baranov",
-                "profilePath": "https://image.tmdb.org/t/p/w300_and_h450_bestv2/undefined"
-            }
-        },
-        {
-            "id": 440249,
-            "originalLanguage": "en",
-            "originalTitle": "After Porn Ends 2",
-            "overview": "After Porn Ends 2 picks up where its predecessor left off and not only turns back the clock to meet the oldest living stars in adult film's history, but goes in depth with some of Its most current retirees and juxtaposes their experiences in a life after porn. Delving deeper into society's ongoing stigmas of race, misogyny, and the reality of decreasing opportunities for these former VHS box cover stars. For some, their careers in adult entertainment is accepted proudly and without regret. In fact, it seems to have proven to be the pathway to their current happiness and inner peace. For others, however, a career in porn has proven to be a conduit to certain despair as they struggle to find a way to bury their past and emerge with a new career or calling.",
-            "popularity": 176.994,
-            "posterPath": "https://image.tmdb.org/t/p/w300_and_h450_bestv2//rfItXrtDGILwsCdmgVxX79phFuI.jpg",
-            "releaseDate": "2017-03-28",
-            "title": "After Porn Ends 2",
-            "voteAverage": 5.2,
-            "voteCount": 138,
-            "budget": 500000,
-            "runtime": 90,
-            "genres": [
-                "Documentary"
-            ],
-            "cast": [{
-                    "profilePath": "https://image.tmdb.org/t/p/w300_and_h450_bestv2//54AbMiecdqohWgk9UCYXmB1Y7cN.jpg",
-                    "name": "Ginger Lynn Allen",
-                    "character": "Herself",
-                    "order": 2
-                },
-                {
-                    "profilePath": "https://image.tmdb.org/t/p/w300_and_h450_bestv2//AkG6S0qFTlyKr6AyvB92V8JAwHn.jpg",
-                    "name": "Lisa Ann",
-                    "character": "Herself",
-                    "order": 7
-                },
-                {
-                    "profilePath": "https://image.tmdb.org/t/p/w300_and_h450_bestv2//zw7KkEDx71rGhpIXREk1Q1q7X4r.jpg",
-                    "name": "Janine Lindemulder",
-                    "character": "Herself",
-                    "order": 8
-                },
-                {
-                    "profilePath": "https://image.tmdb.org/t/p/w300_and_h450_bestv2//lIEx7yZnTNGf0VxH2suJDK6wgAw.jpg",
-                    "name": "Ariana Marie",
-                    "character": "Herself",
-                    "order": 9
-                }
-            ],
-            "director": {
-                "id": 1046759,
-                "name": "Bryce Wagoner",
                 "profilePath": "https://image.tmdb.org/t/p/w300_and_h450_bestv2/undefined"
             }
         },
